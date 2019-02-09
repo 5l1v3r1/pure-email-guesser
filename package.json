@@ -1,0 +1,12 @@
+{
+    "name": "pure-email-guesser",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {},
+    "author": "Quentin Dutot",
+    "description": "Guess emails from first and last name",
+    "license": "ISC",
+    "dependencies": {
+        "email-deep-validator": "^3.1.0"
+    }
+}
